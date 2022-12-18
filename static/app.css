@@ -1,6 +1,7 @@
 @font-face {
     font-family: Coke;
-    src: url("https://songquanpeng.github.io/static/font/Coca-ColaCareFontKaiTi.ttf")
+    src: url("https://songquanpeng.github.io/static/font/Coca-ColaCareFontKaiTi.ttf");
+    src: url("https://cdn.jsdelivr.net/gh/songquanpeng/songquanpeng.github.io/static/font/Coca-ColaCareFontKaiTi.ttf");
 }
 
 body {
